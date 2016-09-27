@@ -1,0 +1,21 @@
+{
+  "name": "restify-oauth2-demo",
+  "version": "1.0.0",
+  "description": "this is a demo for restify-oauth",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restify",
+    "restify-oauth",
+    "oauth"
+  ],
+  "dependencies": {
+    "passport-github": "^1.1.0",
+    "restify": "~3.0.0",
+    "restify-oauth2": ">=4.0.0"
+  },
+  "author": "eric",
+  "license": "ISC"
+}
